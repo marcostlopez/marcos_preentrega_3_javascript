@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.canchas {
+    list-style-type: none;
+    padding: 0;
+}
+.cancha {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.botonReservar{
+    background-color: #075a1b;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+.botonCancelar{
+    background-color: #e2172b;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 5px;
+}
